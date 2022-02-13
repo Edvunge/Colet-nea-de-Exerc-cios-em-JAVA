@@ -37,9 +37,6 @@ INSS.
 13)Calcular o Consumo de um veículo conforme os dados informado
 no teclado: Tempo em horas, velocidade média e distância.
 
-15) Ler 2 numeros inteiros e soma-los. Se a soma for maior que 10,
-mostrar o resultado da soma.
-
 16) Ler 2 numeros inteiros e soma-los. Se a soma for maior que 10,
 mostrar o resultado da soma
 
