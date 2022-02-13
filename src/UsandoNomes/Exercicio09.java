@@ -11,6 +11,8 @@ public class Exercicio09 {
         função em portugol que acessa letra por letra de uma palavra é
         strlem(variavel,x). (x é a posição da letra na frase)
         */
+
+        /*
         int x,tam;
         int ca,ce,ci,co,cu;
 
@@ -48,5 +50,6 @@ public class Exercicio09 {
         System.out.printf("\n%d letra i",ci);
         System.out.printf("\n%d letra o",co);
         System.out.printf("\n%d letra u",cu);
+        */
     }
 }
