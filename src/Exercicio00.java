@@ -45,9 +45,6 @@ imprimir Empréstimo pode ser concedido.
 
 19)Ler um numero e imprimir: maior que 20, igual a 20 ou menor que 20.
 
-20) Ler um numero e imprimir: maior que 20, igual a 20 ou menor
-que 20.
-
 21) Ler um ano de nascimento e ano atual. Imprimir a idade da
 pessoa.
 
