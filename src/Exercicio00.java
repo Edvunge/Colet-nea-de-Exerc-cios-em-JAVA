@@ -33,12 +33,8 @@ desconto de 9%
 valor da hora aula, numero de aulas dadas e o % de desconto do
 INSS.
 
-
 13)Calcular o Consumo de um veículo conforme os dados informado
 no teclado: Tempo em horas, velocidade média e distância.
-
-16) Ler 2 numeros inteiros e soma-los. Se a soma for maior que 10,
-mostrar o resultado da soma
 
 17) Ler 1 número. Se positivo, imprimir raiz quadrada senao o
 quadrado.

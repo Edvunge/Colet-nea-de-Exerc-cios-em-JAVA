@@ -12,10 +12,10 @@ public class Exercicio0_15 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println(" digite um numero inteiro: ");
-        double numberOne = scanner.nextDouble();
+        int numberOne = scanner.nextInt();
 
         System.out.println(" digite o segundo numero inteiro: ");
-        double numberTwo = scanner.nextDouble();
+        int numberTwo = scanner.nextInt();
 
         double soma = numberOne + numberTwo;
 
@@ -24,5 +24,6 @@ public class Exercicio0_15 {
         }
 
         scanner.close();
+
     }
 }
