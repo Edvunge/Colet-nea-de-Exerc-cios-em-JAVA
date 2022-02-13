@@ -1,5 +1,6 @@
 package UsandoNumerosCalculandoMédias;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Exercicio0_12 {
@@ -9,6 +10,7 @@ public class Exercicio0_12 {
         Fahrenheit.
         */
 
+        Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("digite a temperatura em fahrenheit: ");
