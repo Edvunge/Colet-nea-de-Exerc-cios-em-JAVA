@@ -18,7 +18,7 @@ public class Exercicio06 {
         String nome = sc.nextLine();
 
         System.out.println(" indique o seu sexo: ");
-        char sexo = (char)System.in.read(); //sc.nextLine();
+        char sexo = (char)System.in.read();
 
         System.out.println(" indique a sua idade: ");
         int idade = sc.nextInt();
