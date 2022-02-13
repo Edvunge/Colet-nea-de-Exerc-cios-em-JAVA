@@ -3,13 +3,6 @@
 
 
 
-1)Receber um nome e imprimir as 4 primeiras letras do nome. 
-
-2)Receber um nome e imprimir as letras na posição impar
-
-3)Receber um nome e imprimir as letras na posição impar
-
-4)Escrever seu nome na tela 10 vezes. Um nome por linha. 
 
 5)Ler nome, endereço, telefone e imprimir 
 
