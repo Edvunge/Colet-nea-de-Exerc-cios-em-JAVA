@@ -4,7 +4,7 @@ public class Test00 {
     /*
 
 
-4. Leia um n´umero real e imprima o resultado do quadrado desse n´umero.
+
 5. Leia um n´umero real e imprima a quinta parte deste n´umero.
 6. Leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit.
 A f ´ ormula de convers˜ao ´ e: F = C(9:0=5:0)+32:0, sendo F a temperatura em Fahrenheit
