@@ -3,7 +3,7 @@ package VariaveisExpressoes;
 public class Test00 {
     /*
 
-3. Pec¸a ao usu´ ario para digitar tr ˆes valores inteiros e imprima a soma deles.
+
 4. Leia um n´umero real e imprima o resultado do quadrado desse n´umero.
 5. Leia um n´umero real e imprima a quinta parte deste n´umero.
 6. Leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit.
